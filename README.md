@@ -10,7 +10,7 @@ Check out our [Documentation](#) to get started with setting up automated repric
 
 ### Discussions
 
-Connect with other Pulsify users in our [Discussions](https://github.com/lineofflight/pulsify/discussions) section:
+Connect with other Pulsify users in our [Discussions](../../discussions) section:
 
 - Ask questions and get advice
 - Share your pricing strategies  
@@ -20,8 +20,8 @@ Connect with other Pulsify users in our [Discussions](https://github.com/lineoff
 
 Found a bug or have a feature request?
 
-- **Report a Bug**: [Open an issue](https://github.com/lineofflight/pulsify/issues/new) with details about what's not working
-- **Feature Requests**: [Create an issue](https://github.com/lineofflight/pulsify/issues/new) with the `enhancement` tag
+- **Report a Bug**: [Open an issue](../../issues/new) with details about what's not working
+- **Feature Requests**: [Create an issue](../../issues/new) with the `enhancement` tag
 
 ---
 
